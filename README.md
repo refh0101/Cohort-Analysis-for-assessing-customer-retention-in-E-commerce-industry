@@ -12,14 +12,13 @@ Data visualization and business analysis
 Time-based Cohort analysis with Python
 
 # Business Overview/Problem
-## Business Problem
 
 E-Shop Pro is facing a significant challenge in retaining its customers. While the company has been successful in acquiring new customers through marketing efforts and promotions, it has noticed a concerning trend of declining customer retention rates. This is a critical issue in the highly competitive e-commerce industry, where customer loyalty and repeat business are paramount.
 
 
 While E-Shop Pro collects vast amounts of customer data, it has not effectively leveraged this data to gain insights into customer behavior and preferences. This underutilization of data is a missed opportunity for improving customer retention.
 
-## Rationale for the Project
+# Rationale for the Project
 Cohort analysis is a powerful technique used in business analytics to gain insights into the behavior and characteristics of specific groups of customers, users, or any defined segments over time. These groups, or cohorts, share a common characteristic or experience, such as the date of their first purchase, sign-up, or acquisition.
 
 
@@ -29,10 +28,10 @@ Cohort analysis is a valuable tool in the realm of customer retention because it
 
  
 
-## A. Identifying Retention Trends: cohort analysis allows businesses to group customers based on specific criteria, such as their acquisition date or first purchase. By tracking these cohorts over time, it becomes easier to identify trends in customer behavior, including whether retention rates are increasing or decreasing.
+A. Identifying Retention Trends: cohort analysis allows businesses to group customers based on specific criteria, such as their acquisition date or first purchase. By tracking these cohorts over time, it becomes easier to identify trends in customer behavior, including whether retention rates are increasing or decreasing.
  
 
-## B. Pinpointing Churn Patterns: Cohort analysis helps in identifying when and why customers tend to churn or stop making repeat purchases. This information is crucial for devising strategies to reduce churn and retain more customers.
+B. Pinpointing Churn Patterns: Cohort analysis helps in identifying when and why customers tend to churn or stop making repeat purchases. This information is crucial for devising strategies to reduce churn and retain more customers.
 
 # Aim of the Project
 This project aims to gain comprehensive insights into user engagement patterns and content preferences on the Streamlix platform. 
