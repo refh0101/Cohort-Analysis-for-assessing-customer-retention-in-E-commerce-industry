@@ -28,10 +28,10 @@ Cohort analysis is a valuable tool in the realm of customer retention because it
 
  
 
-A. Identifying Retention Trends: cohort analysis allows businesses to group customers based on specific criteria, such as their acquisition date or first purchase. By tracking these cohorts over time, it becomes easier to identify trends in customer behavior, including whether retention rates are increasing or decreasing.
+- Identifying Retention Trends: cohort analysis allows businesses to group customers based on specific criteria, such as their acquisition date or first purchase. By tracking these cohorts over time, it becomes easier to identify trends in customer behavior, including whether retention rates are increasing or decreasing.
  
 
-B. Pinpointing Churn Patterns: Cohort analysis helps in identifying when and why customers tend to churn or stop making repeat purchases. This information is crucial for devising strategies to reduce churn and retain more customers.
+- Pinpointing Churn Patterns: Cohort analysis helps in identifying when and why customers tend to churn or stop making repeat purchases. This information is crucial for devising strategies to reduce churn and retain more customers.
 
 # Aim of the Project
 This project aims to gain comprehensive insights into user engagement patterns and content preferences on the Streamlix platform. 
@@ -62,27 +62,26 @@ Programming language – Python
 
 # Libraries
 
-A. Numpy: For performing mathematical operations over data
-B. Pandas: For Data Analysis and Manipulation
-C. Matplotlib.pyplot: For Data Visualization
-D. Seaborn: For Data Visualization
-E. Scikit-learn: For Machine Learning
+- Numpy: For performing mathematical operations over data
+- Pandas: For Data Analysis and Manipulation
+- Matplotlib.pyplot: For Data Visualization
+- Seaborn: For Data Visualization
+- Scikit-learn: For Machine Learning
 
 # Project Scope
-A. Exploratory Data Analysis
+- Exploratory Data Analysis
 
 the data is thoroughly explored and analysed to gain insights and understand its characteristics. This involves statistical analysis, data visualization, and other exploratory techniques to identify patterns, correlations, anomalies, and potential issues in the data.
 
-B. Feature Engineering
+- Feature Engineering
 
 Feature engineering is the process of creating or selecting relevant features (input variables) from the available data that will be used for modeling. It may involve feature extraction, transformation, scaling, or the creation of new features to improve the predictive power of the models.
 
 
-C. Model Development
+- Model Development
 
 Various modeling techniques are applied to the prepared data in this stage to build predictive or descriptive models. This can include machine learning algorithms, statistical models, or other analytical approaches. The models are trained, validated, and fine-tuned to optimize their performance.
 
-D. Model Evaluation and Selection
-
+- Model Evaluation and Selection
 
 Once the models are developed, they are evaluated using appropriate evaluation metrics and validation techniques. This involves assessing their performance, generalizability, and robustness. The best-performing model(s) are selected for further deployment or refinement.
